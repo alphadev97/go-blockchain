@@ -16,6 +16,9 @@ vendor/
 bin/
 pkg/
 
+# Badger DB Folder
+tmp/
+
 # Go workspace file
 go.work
 
